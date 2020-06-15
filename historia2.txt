@@ -1,6 +1,8 @@
 Hola mi Nombre es Alejandro Cataño Herrera
 
-tengo 28 años y soy Ingeniero Mecánico
+tengo 28 años recien cumplidos y soy Ingeniero Mecánico
 
 Vivo en Bello Antioquia y soy Colombiano.
+
+me gusta el frontend y algùn dia quisiera aprender backend.
 
